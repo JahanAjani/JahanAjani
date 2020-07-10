@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 You are here that means you are looking for some cool work I am doing.
+#### So here's the gist of what you can find:
+- Machine learning & Deep Learning projects.
+- Some cool spring boot web applications like CacheAsService.
+- Some projects which has nice cleaner modularized, design patterns based codes like AmazingKart, CacheAsService.
+- Codes related to contest I've been in past.
+
+### If you are working on cool ideas and looking for collaboration shoot me an email at `zahanajani03@gmail.com`.
+##### Languages I like to work in are Java, Python, Go.
 
 <!--
 **JahanAjani/JahanAjani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
