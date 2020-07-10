@@ -5,7 +5,7 @@
 - Some projects which has nice cleaner modularized, design patterns based codes like AmazingKart, CacheAsService.
 - Codes related to contest I've been in past.
 
-### If you are working on cool ideas and looking for collaboration shoot me an email at `zahanajani03@gmail.com`.
+##### If you are working on cool ideas and looking for collaboration shoot me an email at `zahanajani03@gmail.com`.
 ##### Languages I like to work in are Java, Python, Go.
 
 <!--
