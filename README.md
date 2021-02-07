@@ -1,8 +1,8 @@
-### Hi there 👋 You are here that means you are looking for some cool work I am doing.
+### Hi there 👋
 #### So here's the gist of what you can find:
 - Machine learning & Deep Learning projects.
-- Some cool spring boot web applications like CacheAsService.
-- Some projects which has nice cleaner modularized, design patterns based codes like AmazingKart, CacheAsService.
+- Spring boot web applications like CacheAsService.
+- Projects which has nice cleaner modularized, design patterns based codes like AmazingKart, CacheAsService.
 - Codes related to contest I've been in past.
 
 ##### If you are working on cool ideas and looking for collaboration shoot me an email at `zahanajani03@gmail.com`.
